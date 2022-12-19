@@ -2,5 +2,5 @@
 > Status do projeto: Em desenvolvimento
 
 ```
-xd
+node app.js
 ```
